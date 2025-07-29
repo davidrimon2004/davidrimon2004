@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 📫 How to reach me **davidhalim2004@gmail.com** or through my LinkedIn **https://www.linkedin.com/in/david-rimon-b520a2216/**
+- 📫 How to reach me **davidhalim2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/david rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david rimon" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/david rimon](https://www.linkedin.com/in/david-rimon-b520a2216/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david rimon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
