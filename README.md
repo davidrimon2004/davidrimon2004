@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **davidhalim2004@gmail.com**
 
-- <a herf="https://github.com/davidrimon2004/davidrimon_portfolio" target= blank> My portfolio😁 </a>
+- [My portfolio 😁](https://davidrimon2004.github.io/davidrimon_portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
