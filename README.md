@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **davidhalim2004@gmail.com**
 
+- <a herf="https://github.com/davidrimon2004/davidrimon_portfolio" target= blank> My portfolio😁 </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-rimon-b520a2216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david rimon" height="30" width="40" /></a>
